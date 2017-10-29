@@ -1,0 +1,27 @@
+.container {
+	font-family: sans-serif;
+	font-size: 24px;
+	border-left: 3px solid #00b149;
+	padding: 10px;
+	letter-spacing: 2px;
+}
+
+.url {
+	color: #1700d3;
+}
+
+.a {
+	color: #be2725;
+}
+
+.href {
+	color: #ff0040;
+}
+
+.text {
+	color: #000;
+}
+
+ .italics {
+ 	font-style: italic;
+ }
